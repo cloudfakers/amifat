@@ -3,10 +3,6 @@
             [noir.content.getting-started])
   (:use [noir.core :only [defpage]]))
 
-(defpage "/welcome" []
-         (common/layout
-           [:p "Welcome to amifat"]))
-
 (defpage "/" []
   (common/layout
-   [:body [:div#exuberant [:h1#exuberant "YES"]]]))
+   [:body [:div#exuberant [:h1#exuberant "NO"]]]))
