@@ -5,4 +5,4 @@
 
 (defpage "/" []
   (common/layout
-   [:body [:div#exuberant [:h1#exuberant "NO"]]]))
+    [:body [:div#exuberant [:h1#exuberant "NO"]]]))

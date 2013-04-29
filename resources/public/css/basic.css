@@ -1,17 +1,17 @@
 body {
-  background: url(/img/noir-bg.png);
-  color: #d1d9e1;
-  padding: 60px 80px;
-  font-family: 'Helvetica Neue',Helvetica,Verdana;
+    background: url(/img/noir-bg.png);
+    color: #d1d9e1;
+    padding: 60px 80px;
+    font-family: 'Helvetica Neue',Helvetica,Verdana;
 }
 #exuberant {
-  text-align: center;
-  width: 600px;
-  margin: 0px auto;
-  margin-top: 200px;
+    text-align: center;
+    width: 600px;
+    margin: 0px auto;
+    margin-top: 200px;
 }
 #exuberant h1 {
-  color: #6bffbd;
-  font-size: 80px;
-  margin-bottom: 20px;
+    color: #6bffbd;
+    font-size: 80px;
+    margin-bottom: 20px;
 }
