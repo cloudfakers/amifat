@@ -1,1 +1,1 @@
-web: lein ring server 80
+web: lein run -m amifat.server $PORT 80
