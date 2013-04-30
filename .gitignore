@@ -3,6 +3,6 @@ pom.xml
 /lib/
 /classes/
 /target
-/.lein-*
-/.env
+.lein-*
+.env
 .cake

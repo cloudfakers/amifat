@@ -1,1 +1,1 @@
-web: lein run trampoline -m localhost:80
+web: lein ring server 80
