@@ -1,7 +1,7 @@
 (ns amifat.test.handler
   (:use clojure.test
-        ring.mock.request  
-        amifat.handler))
+        ring.mock.request
+        amifat.server))
 
 (deftest test-app
   (testing "main route"
