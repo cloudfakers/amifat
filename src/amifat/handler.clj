@@ -6,4 +6,4 @@
 (defroutes app-routes
   (GET "/" [] (indexpage))
   (route/resources "/")
-  (route/not-found "Not Found"))
+  (route/not-found (notfound)))

@@ -11,4 +11,6 @@
 
   (testing "not-found route"
     (let [response (app (request :get "/invalid"))]
-      (is (= (:status response) 404)))))
+      (is (= (:status response) 404))
+      (is (= (:body response) "<!DOCTYPE html>\n<html><head><title>Am I fat?</title><link href=\"/css/basic.css\" rel=\"stylesheet\" type=\"text/css\"></head><body><div id=\"exuberant\"><h1 id=\"exuberant\">404</h1><h2 id=\"subexuberant\">maybe your fingers are like sausages</h2></div></body></html>"))))
+  )
