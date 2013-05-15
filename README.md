@@ -2,7 +2,7 @@
 
 No, my darling.
 
-[![Build Status](https://travis-ci.org/sergicastro/amifat.png?branch=master)](https://travis-ci.org/sergicastro/amifat)
+[![Build Status](https://travis-ci.org/cloudfakers/amifat.png?branch=master)](https://travis-ci.org/cloudfakers/amifat)
 
 ## Prerequisites
 
